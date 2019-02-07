@@ -1,0 +1,16 @@
+Pemesanan Baju Konveksi
+
+1. Modul Pemesanan 
+	- API Pemesanan = Input data pemesanan
+			  Update data pemesanan
+	- Mockup Pemesanan = View all toko konveksi
+			     View Harga per pcs tiap toko
+			     View alamat toko konveksi
+	- UI Pemesanan = UI view all toko konveksi
+			 UI view harga per pcs tiap toko
+			 UI view alamat toko konveksi
+
+2. Modul Chatting 
+3. Modul Transaksi
+
+
